@@ -3,8 +3,8 @@ title:       Off the convex path
 email:       offconvex@mrtz.org 
 author:      Moritz Hardt
 description: "Algorithms off the convex path."
-baseurl:     ""
-url:         "http://offconvex.github.io"
+baseurl:     "/ve-models-that-count"
+url:         "https://aakashlahoti.github.io"
 date_format: "%b %-d, %Y"
 timezone:    America/Los_Angeles
 
